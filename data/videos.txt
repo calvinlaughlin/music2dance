@@ -1,0 +1,9 @@
+data/rain.wav
+data/pulp.wav
+data/dynamite2.wav
+data/fever.wav
+data/lalaland.wav
+data/peanuts.wav
+data/joker.wav
+data/sound.wav
+data/skeleton.wav
