@@ -2,7 +2,10 @@
 A feature-based audio mosaic tool that aligns music spectrums with iconic dance video clips using K-Nearest Neighbors (KNN) for a coherent audiovisual performance.  
 The user chooses a song and can control which video plays during its runtime. Dance clips are automatically sync'd with audio to simulate dancing to user's chosen song.  
 
-[![Watch the video](https://img.youtube.com/vi/4_gVm7ntco?s1=BEXC5C8ynUZ5sBXA/maxresdefault.jpg)](https://www.youtube.com/watch?v=4_gVm7ntco?s1=BEXC5C8ynUZ5sBXA)  
+<a href="https://www.youtube.com/watch?v=4_gVm7ntco?s1=BEXC5C8ynUZ5sBXA" target="_blank">
+    <img src="thumbnail.png" alt="Watch the video" width="500" /></a>   
+    
+[Link to video](https://www.youtube.com/watch?v=4_gVm7ntco?s1=BEXC5C8ynUZ5sBXA)  
 
 What does it mean for something to be “coherent”? And how does the medium affect what sort of meaning we take out of a performance? This project allowed me to explore these themes and more as I was presented with the challenge of matching popular songs to iconic dance scenes from movies. It was tough to connect ChucK to Processing, but the hardest part overall was getting a good performance for the video. Just like an instrument, I had to practice when to switch videos, when to turn on the rainbow effect, which videos to switch between, and how often. Some of the videos responded better to certain parts of the song, so I had to ensure those were playing when that point was reached. Just like an instrument, there were sequences that flowed well together, and those that didn’t.
 
